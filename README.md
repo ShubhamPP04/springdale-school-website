@@ -4,12 +4,12 @@ This is the source code for the Springdale Public School website, built using Re
 
 ## Features
 
-* Home: A welcoming homepage with a carousel showcasing school events and activities.
-* About Us: Information about the school's history, vision, mission, and facilities.
-* Academics: Details about the school's curriculum, teaching methodologies, and educational resources.
-* Admissions: Information about the admission process and criteria.
-* Students: Highlights student achievements, clubs, and the student council.
-* Contact Us: A contact form for inquiries and a Google Maps integration for location.
+* **Home**: A welcoming homepage with a carousel showcasing school events and activities.
+* **About Us**: Information about the school's history, vision, mission, and facilities.
+* **Academics**: Details about the school's curriculum, teaching methodologies, and educational resources.
+* **Admissions**: Information about the admission process and criteria.
+* **Students**: Highlights student achievements, clubs, and the student council.
+* **Contact Us**: A contact form for inquiries and a Google Maps integration for location.
 
 ## Getting Started
 
@@ -24,12 +24,12 @@ This is the source code for the Springdale Public School website, built using Re
    npm install
 
 
-3. Start the development server:**
+3. Start the development server:
    
    npm start
    
 
-4. Open [http://localhost:3000](http://localhost:3000) in your browser.**
+4. Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ## Technologies Used
 
