@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .container {
+    margin-top: 80px;
+  }
+  
+  .footer {
+    margin-top: 20px;
+    padding: 10px 0;
+    background-color: #f8f9fa;
+  }
+
+  .nav-link.active {
+    font-weight: bold;
+  }
